@@ -33,9 +33,14 @@ Admin:
   - add user/remove user
 
 ### Technologies: 
-Spring - Core / MVC / Web / Security,
-Hibernate,
-RDBMS - MySQL,
-Packaging - Apache Maven,
-Tomcat,
+Spring - Core / MVC / Web / Security
+
+MySQL
+
+Hibernate
+
+Apache Maven
+
+Tomcat
+
 JSON

@@ -1,10 +1,18 @@
 ## Description
 
-Opera app is an application to manage tickets bought on the occasion of opera session by a user.
+OperaApp is an application to manage tickets bought on the occasion of an opera session by a user. An app can be used to organize the interactions between the customer and selling department, a user has an opportunity to choose an available session, purchase tickets, make an order, login, register. The App has integrated ability to manage opera sessions, performances, schedule, and administrating user' customer experience.
 
 ## Setting
 
-file src/main/resources/`hibernate.cfg.xml` is to be configured under RDBMS in use
+file src/main/resources/`hibernate.cfg.xml` is to be configured under RDBMS in use:
+
+db.driver=YOUR_DRIVER
+
+db.url=YOUR_URL
+
+db.username=YOUR_USERNAME
+
+db.password=YOUR_PASSWORD
 
 ## Usage
 

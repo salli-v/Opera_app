@@ -50,4 +50,10 @@ AuthenticationServiceImpl
 - `register`(String email, String password) - registers a user
 - `matchPasswords`(String rawPassword, User userFromDb) - private method used in login method
 
-###Technologies: 
+### Technologies: 
+Spring - Core / MVC / Web / Security,
+Hibernate,
+RDBMS - MySQL,
+Packaging - Apache Maven,
+Tomcat,
+JSON

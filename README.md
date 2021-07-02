@@ -4,7 +4,7 @@ OperaApp is an application to manage tickets bought on the occasion of an opera 
 
 ## Setting
 
-file src/main/resources/`hibernate.cfg.xml` is to be configured under RDBMS in use:
+file src/main/resources/`application.properties` is to be configured under RDBMS in use:
 
 db.driver=YOUR_DRIVER
 
